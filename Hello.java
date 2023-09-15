@@ -12,4 +12,5 @@ public class Hello{
         System.out.println("Compte enrera: "+count);
         count --;
     }
+    System.out.println("[ PolNinja ]");
 }
