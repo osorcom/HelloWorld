@@ -12,10 +12,7 @@ public class Hello{
         System.out.println("Compte enrera: "+count);
         count --;
     }
-<<<<<<< HEAD
     System.out.println("[ PolNinja ]");
-=======
 
     System.out.println("XD");
->>>>>>> 5b237beb5c681f5a15991ddf4368a3458c718edb
 }
