@@ -15,4 +15,6 @@ public class Hello{
     System.out.println("[ PolNinja ]");
 
     System.out.println("XD");
+
+    System.out.println("SIUUUU");
 }
